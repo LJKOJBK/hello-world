@@ -1,2 +1,6 @@
 # hello-world
-Just build for the first try
+
+Hi, guys!
+
+JingKai here, what I am interested in is JavaScript and Python,
+and that's what I am made of.
